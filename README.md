@@ -21,7 +21,7 @@ I’m a **Full-Stack Developer** with over **10 years of experience**, crafting 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mofaizdev&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofaizdev&layout=compact&theme=dark)
 
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat&logo=gmail)](mailto:jmfabe07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:jmfabe07@gmail.com)
 
 
 ---
