@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Mohamed Faizal (mofaizdev) 👋
 
-<!--
-**mofaizdev/mofaizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Laravel | Vue.js | React | React Native | PHP | Web & eCommerce Expert**  
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with over **10 years of experience** in web development, specializing in **Laravel, Vue.js, and PHP**. I build dynamic websites, eCommerce platforms, and scalable web & mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+- **Frontend:** Vue.js, Tailwind CSS, Alpine.js, ReactJS, Bootstrap
+- **Backend:** Laravel, PHP, MySQL, API Development
+- **CMS & eCommerce:** WordPress, WooCommerce, Bagisto
+- **DevOps & Tools:** Git, GitHub, Docker, Linux Server Management
+
+## 🚀 What Makes Me Stand Out?
+🔹 **Problem Solver:** I love tackling complex challenges and optimizing performance.
+🔹 **User-Centric Approach:** Every project is built with seamless user experience in mind.
+🔹 **Entrepreneurial Mindset:** Not just a coder—I understand business needs and scalability.
+🔹 **Multi-Platform Developer:** Web, mobile, and beyond—I've got it covered!
+🔹 **Proven Track Record:** Built high-performance apps for startups and global brands.
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mofaizdev&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofaizdev&layout=compact&theme=dark)
+
+---
+🔥 Always exploring new tech & building awesome projects! Let's connect. 😃
