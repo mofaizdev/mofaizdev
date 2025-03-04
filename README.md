@@ -1,11 +1,11 @@
-# Hey, I'm Mohamed Faizal (mofaizdev) 👋
+# Hey, I'm Mohamed Faizal 
 
 🚀 **Building the web, one line of code at a time!**  
 
 I’m a **Full-Stack Developer** with over **10 years of experience**, crafting high-performance web and mobile applications. Whether it's **Laravel**, **Vue.js**, or **React Native**, I bring ideas to life with scalable and efficient code. Passionate about **eCommerce, APIs, and automation**, I create solutions that drive businesses forward.
 
 ## 🔧 Tech Stack & Skills
-- **Frontend:** Vue.js, Tailwind CSS, Alpine.js, ReactJS, Bootstrap
+- **Frontend:** Vue.js, Tailwind CSS, Alpine.js, ReactJS, Bootstrap    
 - **Backend:** Laravel, PHP, MySQL, API Development
 - **CMS & eCommerce:** WordPress, WooCommerce, Bagisto
 - **DevOps & Tools:** Git, GitHub, Docker, Linux Server Management
